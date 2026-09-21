@@ -110,9 +110,9 @@ Antes, informações como disponibilidade, versão e estado das aplicações pre
 
 ---
 
-### Agendesta
+### Agendesk
 
-SaaS desenvolvido de ponta a ponta para gestão de barbearias, reunindo agendamento, clientes, comunicação e pagamentos.
+SaaS desenvolvido de ponta a ponta para gestão de [barbearias, salões de beleza, petshops, clinicas médicas], reunindo agendamento, clientes, comunicação e pagamentos.
 
 - Gestão de horários e disponibilidade.
 - Cadastro e gestão de clientes.
