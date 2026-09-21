@@ -23,111 +23,50 @@
 
 ## Sobre mim
 
-Sou **Analista de Banco de Dados**, com experiência em PostgreSQL, SQL Server, troubleshooting, performance, integrações e ambientes de produção.
+Sou **Analista de Banco de Dados**, com atuação em PostgreSQL, SQL Server, troubleshooting, performance, integrações e ambientes corporativos.
 
-Minha trajetória começou em suporte e infraestrutura e evoluiu para banco de dados, automação e desenvolvimento de soluções internas. Hoje, além da atuação com dados, desenvolvo ferramentas para eliminar atividades repetitivas, centralizar informações operacionais e tornar processos técnicos mais seguros e eficientes.
+Minha experiência começou próxima ao suporte e à operação, o que me deu uma visão prática sobre problemas enfrentados por usuários, clientes e equipes técnicas. Com o tempo, passei de apenas investigar e corrigir esses problemas para **automatizar processos e desenvolver soluções que evitam que o trabalho precise ser feito manualmente novamente**.
 
-Também utilizo **IA generativa como ferramenta de engenharia**, apoiando pesquisa, arquitetura, desenvolvimento, análise e debugging.
-
----
-
-## Experiência profissional
-
-### Aliare — Analista de Banco de Dados
-
-Atuação com bancos de dados e ambientes corporativos ligados ao CRM da Aliare, envolvendo:
-
-- Administração e troubleshooting em **PostgreSQL**.
-- Consultas, operações DDL/DML e análise de performance.
-- Extração, correção, migração e tratamento de dados.
-- Investigação de incidentes envolvendo banco, aplicações, APIs e sincronização.
-- Análise de ambientes Windows, Linux, IIS e aplicações on-premise.
-- ETL, Data Warehouse e processos com Pentaho.
-- Reuniões técnicas e acompanhamento direto de clientes.
-- Interface entre suporte, banco de dados, desenvolvimento e infraestrutura.
-- Criação de automações e ferramentas internas.
-
-Foi nesse contexto que surgiram projetos como **CloverFlow** e **Aliare Monitoring**, desenvolvidos para resolver problemas recorrentes da própria operação.
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-</p>
+Hoje, minha atuação conecta **banco de dados, automação, software e IA aplicada**, utilizando desenvolvimento assistido por IA para transformar necessidades operacionais em ferramentas funcionais.
 
 ---
 
-### VinhaSoft — Analista de Banco de Dados
+## Impacto profissional
 
-Atuação focada em **Microsoft SQL Server** e sustentação de sistemas corporativos.
+Ao longo da minha evolução profissional, passei a atuar não apenas na resolução de incidentes, mas também na **melhoria dos processos que os originam**.
 
-- Administração e manutenção de bancos.
-- Consultas e operações DDL/DML.
-- Procedures, views, índices e estruturas de banco.
-- Query tuning e análise de performance.
-- Extração, inserção e migração de dados.
-- ETL e tratamento de informações.
-- Apoio técnico às equipes de suporte e desenvolvimento.
-
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL">
-  <img src="https://img.shields.io/badge/ETL-4B5563?style=flat-square" alt="ETL">
-</p>
+- Transformei atividades recorrentes de banco de dados em **fluxos mais padronizados, automatizados e seguros**.
+- Desenvolvi ferramentas internas para reduzir análises e verificações que antes dependiam de trabalho manual.
+- Estruturei validações para identificar inconsistências **antes que os dados sejam aplicados no banco**.
+- Centralizei informações operacionais distribuídas entre diversos ambientes em uma única plataforma de monitoramento.
+- Utilizo minha experiência com suporte, banco e infraestrutura para investigar problemas considerando **aplicação, dados e ambiente**, evitando uma análise isolada.
+- Levo necessidades encontradas diretamente na operação para soluções de software que podem ser reutilizadas por outras pessoas e processos.
+- Apliquei telemetria e consolidação de informações operacionais para gerar indicadores utilizados também por **gestão e liderança**.
 
 ---
 
-### VinhaSoft — Suporte N2
-
-Atuação na investigação de incidentes de maior complexidade, reprodução de problemas e apoio técnico ao primeiro nível de suporte.
-
-Também realizava interface com desenvolvimento, levantamento de evidências, validação de correções e acompanhamento de clientes durante investigações técnicas.
-
----
-
-### VinhaSoft — Suporte N1
-
-Atendimento e suporte aos usuários do sistema, incluindo instalação, configuração, investigação inicial de erros, registro de chamados e acompanhamento de solicitações.
-
----
-
-### Unicamp — Estágio em Tecnologia da Informação
-
-Início da trajetória profissional com suporte técnico e infraestrutura, trabalhando com configuração de máquinas, sistemas, hardware, software e conectividade.
-
----
-
-## Produtos e projetos
+## Projetos em destaque
 
 ### CloverFlow
 
-> **Automação de cargas e operações de dados que antes exigiam análise e preparação manual.**
+> **De um processo manual de carga e validação de dados para um fluxo guiado, automatizado e controlado.**
 
-O CloverFlow foi criado para simplificar processos de importação, validação e correção de dados em ambientes PostgreSQL.
+O CloverFlow nasceu de uma atividade recorrente no trabalho com banco de dados: receber arquivos, entender sua estrutura, validar dados e relacionamentos, identificar inconsistências e preparar operações SQL.
 
-### Principais recursos
+A plataforma transforma esse processo em uma ferramenta única.
 
-- Importação de arquivos CSV e XLSX.
-- Mapeamento de campos e estruturas.
-- Validação de tipos e campos obrigatórios.
-- Identificação de duplicidades.
-- Cruzamento com dados existentes no banco.
-- Validação de regras e referências de negócio.
-- Identificação de inconsistências.
-- Correções em lote.
-- Consultas controladas ao banco.
-- Geração de SQL para revisão.
-- Apoio de IA na análise e correção dos dados.
+**O que foi melhorado:**
 
-### Impacto
+- Automatização da importação e análise de arquivos CSV/XLSX.
+- Validação de campos obrigatórios, tipos de dados e duplicidades.
+- Cruzamento com informações existentes no PostgreSQL.
+- Validação de relacionamentos e regras de negócio.
+- Identificação de inconsistências antes da geração das operações.
+- Correção de múltiplos registros em lote.
+- Geração controlada de SQL para revisão.
+- Uso de IA para auxiliar na análise dos dados e sugerir correções.
 
-- Automatização de etapas anteriormente manuais.
-- Identificação de inconsistências antes da geração do SQL.
-- Padronização do processo de carga e validação.
-- Redução de trabalho repetitivo.
-- Maior controle sobre operações sensíveis em banco.
+**Resultado:** um processo que dependia fortemente de análise manual passou a ser **estruturado, repetível e assistido por software**, reduzindo tarefas operacionais e aumentando a segurança das cargas.
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -141,30 +80,24 @@ O CloverFlow foi criado para simplificar processos de importação, validação 
 
 ### Aliare Monitoring
 
-> **Monitoramento centralizado de aplicações distribuídas em ambientes de clientes.**
+> **De verificações individuais em ambientes distribuídos para uma visão operacional centralizada.**
 
-O Aliare Monitoring centraliza informações que antes precisavam ser verificadas individualmente em diferentes ambientes.
+O Aliare Monitoring foi criado para centralizar o acompanhamento de aplicações instaladas em diferentes ambientes de clientes.
 
-### Principais recursos
+Antes, informações como disponibilidade, versão e estado das aplicações precisavam ser consultadas separadamente. A plataforma passou a reunir essas informações em uma única visão.
 
-- Monitoramento de disponibilidade.
-- Identificação de versões instaladas.
+**O que foi melhorado:**
+
+- Monitoramento automático da disponibilidade das aplicações.
+- Identificação centralizada das versões instaladas.
 - Acompanhamento de aplicações Web, APIs e serviços.
-- Centralização de telemetria.
-- Dashboard operacional.
-- Processamento em background.
+- Consolidação de telemetria em uma única interface.
 - Apoio ao diagnóstico de incidentes.
-- Controle de acesso por perfil.
-- Auditoria de operações.
-- Operações SQL controladas.
+- Identificação mais rápida de ambientes indisponíveis ou desatualizados.
+- Controle de acesso e auditoria de operações.
+- Disponibilização de indicadores operacionais para equipes técnicas e gestão.
 
-### Impacto
-
-- Centralização da visão dos ambientes.
-- Automatização de verificações recorrentes.
-- Identificação mais rápida de serviços indisponíveis ou desatualizados.
-- Maior disponibilidade de informações para investigação.
-- Consolidação de dados técnicos úteis para operação e gestão.
+**Resultado:** informações antes espalhadas entre diferentes ambientes passaram a formar uma **visão centralizada da operação**, reduzindo verificações manuais e aumentando a capacidade de acompanhamento e diagnóstico.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -179,14 +112,14 @@ O Aliare Monitoring centraliza informações que antes precisavam ser verificada
 
 ### Agendesta
 
-SaaS para gestão de barbearias, reunindo agendamento, clientes, comunicação e cobrança.
+SaaS desenvolvido de ponta a ponta para gestão de barbearias, reunindo agendamento, clientes, comunicação e pagamentos.
 
 - Gestão de horários e disponibilidade.
 - Cadastro e gestão de clientes.
-- Gestão do estabelecimento.
 - Integração com WhatsApp.
 - Automação de comunicação.
-- Integração com pagamentos.
+- Gestão do estabelecimento.
+- Fluxos de cobrança e pagamentos.
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
@@ -201,7 +134,7 @@ SaaS para gestão de barbearias, reunindo agendamento, clientes, comunicação e
 
 ## Stack técnica
 
-### Dados
+### Dados & Banco de Dados
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -233,7 +166,7 @@ SaaS para gestão de barbearias, reunindo agendamento, clientes, comunicação e
   <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API">
 </p>
 
-### Infraestrutura & Entrega
+### Infraestrutura
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
@@ -255,6 +188,6 @@ SaaS para gestão de barbearias, reunindo agendamento, clientes, comunicação e
 
 ## Contato
 
-Tenho interesse em oportunidades remotas relacionadas a **Banco de Dados, Dados, Automação, Desenvolvimento e IA Aplicada**.
+Tenho interesse em oportunidades remotas relacionadas a **Banco de Dados, Automação, Desenvolvimento de Software e IA Aplicada**.
 
 [LinkedIn](https://www.linkedin.com/in/felipecasadia/) · [GitHub](https://github.com/felipecasadia)
