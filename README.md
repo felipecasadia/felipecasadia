@@ -31,17 +31,15 @@ Hoje, minha atuação conecta **banco de dados, automação, software e IA aplic
 
 ---
 
-## Impacto profissional
+## Destaques
 
-Ao longo da minha evolução profissional, passei a atuar não apenas na resolução de incidentes, mas também na **melhoria dos processos que os originam**.
-
-- Transformei atividades recorrentes de banco de dados em **fluxos mais padronizados, automatizados e seguros**.
-- Desenvolvi ferramentas internas para reduzir análises e verificações que antes dependiam de trabalho manual.
-- Estruturei validações para identificar inconsistências **antes que os dados sejam aplicados no banco**.
-- Centralizei informações operacionais distribuídas entre diversos ambientes em uma única plataforma de monitoramento.
-- Utilizo minha experiência com suporte, banco e infraestrutura para investigar problemas considerando **aplicação, dados e ambiente**, evitando uma análise isolada.
-- Levo necessidades encontradas diretamente na operação para soluções de software que podem ser reutilizadas por outras pessoas e processos.
-- Apliquei telemetria e consolidação de informações operacionais para gerar indicadores utilizados também por **gestão e liderança**.
+- Transformei processos recorrentes de banco de dados em **fluxos mais rápidos, padronizados e automatizados**, reduzindo esforço operacional e dependência de execução manual.
+- Desenvolvi soluções internas que passaram a **economizar horas de trabalho em rotinas de monitoramento, atualização e análise de ambientes**.
+- Estruturei validações para identificar inconsistências **antes que os dados sejam aplicados no banco**, reduzindo retrabalho e aumentando a segurança das operações.
+- Centralizei monitoramento, versões, disponibilidade e telemetria de aplicações distribuídas, reduzindo verificações individuais e melhorando a **observabilidade da operação**.
+- Desenvolvi soluções reutilizáveis que aumentaram a **capacidade de execução e entrega da equipe**, permitindo atender mais serviços sem crescimento proporcional do trabalho manual.
+- O ganho de produtividade obtido com essas automações ampliou a capacidade de atendimento e execução de serviços, contribuindo também para o **crescimento do faturamento com serviços técnicos**.
+- Passei a utilizar IA generativa como parte do processo de engenharia para acelerar análise, desenvolvimento, debugging e evolução das soluções.
 
 ---
 
@@ -66,7 +64,7 @@ A plataforma transforma esse processo em uma ferramenta única.
 - Geração controlada de SQL para revisão.
 - Uso de IA para auxiliar na análise dos dados e sugerir correções.
 
-**Resultado:** um processo que dependia fortemente de análise manual passou a ser **estruturado, repetível e assistido por software**, reduzindo tarefas operacionais e aumentando a segurança das cargas.
+**Resultado:** um processo que dependia fortemente de análise e execução manual passou a ser **estruturado, repetível e assistido por software**. O CloverFlow reduziu significativamente o tempo necessário para preparação e execução das cargas, aumentou a capacidade operacional da equipe e permitiu atender um volume maior de serviços sem crescimento proporcional do esforço manual, contribuindo para o **aumento da capacidade de entrega e do faturamento com serviços técnicos**.
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -96,8 +94,9 @@ Antes, informações como disponibilidade, versão e estado das aplicações pre
 - Identificação mais rápida de ambientes indisponíveis ou desatualizados.
 - Controle de acesso e auditoria de operações.
 - Disponibilização de indicadores operacionais para equipes técnicas e gestão.
+- Redução do tempo gasto em rotinas de atualização, conferência e acompanhamento dos ambientes através da centralização e automação dessas verificações.
 
-**Resultado:** informações antes espalhadas entre diferentes ambientes passaram a formar uma **visão centralizada da operação**, reduzindo verificações manuais e aumentando a capacidade de acompanhamento e diagnóstico.
+**Resultado:** informações antes espalhadas entre diferentes ambientes passaram a formar uma **visão centralizada da operação**. A automação reduziu horas acumuladas em verificações manuais de disponibilidade, versões e atualizações, aumentou a observabilidade dos ambientes e tornou o acompanhamento da operação mais rápido e previsível para equipes técnicas e gestão.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -112,7 +111,7 @@ Antes, informações como disponibilidade, versão e estado das aplicações pre
 
 ### Agendesk
 
-SaaS desenvolvido de ponta a ponta para gestão de [barbearias, salões de beleza, petshops, clinicas médicas], reunindo agendamento, clientes, comunicação e pagamentos.
+SaaS desenvolvido de ponta a ponta para gestão de barbearias, salões de beleza, petshops e clínicas médicas, reunindo agendamento, clientes, comunicação e pagamentos.
 
 - Gestão de horários e disponibilidade.
 - Cadastro e gestão de clientes.
