@@ -116,7 +116,7 @@ SaaS desenvolvido de ponta a ponta para gestão de [barbearias, salões de belez
 
 - Gestão de horários e disponibilidade.
 - Cadastro e gestão de clientes.
-- Integração com WhatsApp.
+- Integração com WhatsApp API oficial da Meta.
 - Automação de comunicação.
 - Gestão do estabelecimento.
 - Fluxos de cobrança e pagamentos.
